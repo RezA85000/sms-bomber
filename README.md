@@ -5,6 +5,11 @@
 - Sms : 177 🧨
 - Call : 6 🧨
 
+
+## requirements
+pkg install go
+pkg install git
+  
 ## Run in Linux/Termux
 ```
 git clone https://github.com/RezA85000/sms-bomber
