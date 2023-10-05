@@ -4,5 +4,5 @@
 ## Run in Linux/Termux
 ```
 git clone https://github.com/RezA85000/sms-bomber
-cd sms-bombee
+cd sms-bomber
 go run 'sms and call bomber.go'
