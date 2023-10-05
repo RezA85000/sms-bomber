@@ -1,0 +1,8 @@
+## Number of web services 
+- Sms : 177 🧨
+- Call : 6 🧨
+## Run in Linux/Termux
+```
+git clone https://github.com/RezA85000/sms-bombee
+cd sms-bombee
+go run 'sms and call bomber.go'
